@@ -9,8 +9,8 @@ def weight_on_planets():
 
    # Print new weights
    print("\n"
-         "On Mars you would weigh ", marsWeight, " pounds. \n"
-         "On Jupiter you would weigh ", jupiterWeight, " pounds.")
+         "On Mars you would weigh", marsWeight, "pounds.\n"
+         "On Jupiter you would weigh", jupiterWeight, "pounds.")
 
 if __name__ == '__main__':
     weight_on_planets()
